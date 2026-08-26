@@ -22,5 +22,7 @@ public class Q11 {
             case 11 -> System.out.println("November");
             case 12 -> System.out.println("December");
         };
+
+        sc.close();
     }
 }
