@@ -9,11 +9,9 @@ public class Q14 {
         int n = sc.nextInt();
 
         for(int i = 1; i <= 10; i++){
-            int produto = i * n;
-            System.out.printf("%d x %d = %d%n", i, n, produto);
+            System.out.printf("%d x %d = %d%n", i, n, i*2);
         }
         sc.close();
-
     }
     
 }
