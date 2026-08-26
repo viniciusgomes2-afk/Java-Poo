@@ -1,4 +1,4 @@
-package listadeexercicios.lista03;
+package Redes.listadeexercicios.lista03;
 
 import java.util.Scanner;
 
