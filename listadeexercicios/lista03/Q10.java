@@ -1,3 +1,5 @@
+package listadeexercicios.lista03;
+
 import java.util.Scanner;
 
 public class Q10{
