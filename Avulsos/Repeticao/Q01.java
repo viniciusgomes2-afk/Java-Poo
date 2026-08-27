@@ -28,5 +28,7 @@ public class Q01 {
         } while (n >= 0);
 
         System.out.printf("Soma dos números pares = %d%nSoma dos números impares = %d%n", somaPar, somaImpar);
+    
+        sc.close();
     }
 }
